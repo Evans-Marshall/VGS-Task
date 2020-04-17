@@ -13,3 +13,5 @@ I grabbed the local library link and identifier from my VGS dashboard and copied
 Next, I set up my inbound redacted and outbound revealed routes to their appropriate servers.
 
 I then had a lot of fun typing in fake card numbers and testing the redaction.
+
+Youtube demo video can be found here: https://youtu.be/FftEWx2AgnU
